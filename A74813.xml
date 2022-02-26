@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties declaration concerning the charge of the Army; and his resolution to die like a martyr, rather then to answer to any impeachment or articles, in relation to his tryall, by the lawes of the land, as an ordinary subject. And his declaration and proposals to the Governour of Winsor Castle concerning Major Gen. Brown, and his present restraint under the power of the sword, with his predictions thereupon, touching what shall befall the Army.  Also, the declaration and proposals of Col: Harrison to the King, and his protestation, to oppose all persons whatsoever, that shall offer any private violence to His Majesties royall person. Dated from Windsor Castle, the 1 of January 1648.</title>
+            <author>Willis, John, d. 1625.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74813</idno>
+            <idno type="STC">Wing W2811</idno>
+            <idno type="STC">Thomason E536_25</idno>
+            <idno type="STC">ESTC R205343</idno>
+            <idno type="EEBO-CITATION">99864750</idno>
+            <idno type="PROQUEST">99864750</idno>
+            <idno type="VID">164836</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74813)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164836)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E536[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties declaration concerning the charge of the Army; and his resolution to die like a martyr, rather then to answer to any impeachment or articles, in relation to his tryall, by the lawes of the land, as an ordinary subject. And his declaration and proposals to the Governour of Winsor Castle concerning Major Gen. Brown, and his present restraint under the power of the sword, with his predictions thereupon, touching what shall befall the Army.  Also, the declaration and proposals of Col: Harrison to the King, and his protestation, to oppose all persons whatsoever, that shall offer any private violence to His Majesties royall person. Dated from Windsor Castle, the 1 of January 1648.</title>
+                  <author>Willis, John, d. 1625.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for C. Bradshaw, neer the Inner Temple,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Willis.</note>
+                  <note>Annotation on Thomason copy: "Jan: [illegible]"; the 9 in 1649 has been crossed out and date altered to "1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164836:1" rendition="simple:additions"/>
+            <p>His Majeſties DECLARATION <hi>CONCERNING</hi> The Charge of the Army; And His Reſolution to die like a Martyr, rather then to anſwer to any Impeachment or Articles, in relation to his Try all, by the Lawes of the Land, as an ordinary Subject.</p>
+            <p>And His Declaration and Propoſals to the Governour of <hi>Winſor</hi> Caſtle concerning Major Gen. <hi>Brown,</hi> and his preſent reſtraint under the power of the Sword, with his Predictions thereupon, touching what ſhall befall the Army.</p>
+            <p>Alſo, the Declaration and Propoſals of Col: <hi>Harriſon</hi> to the <hi>King,</hi> and his Proteſtation, to oppoſe all perſons what<g ref="char:EOLhyphen"/>ſoever, that ſhall offer any private violence to His Majeſties Royall Perſon. <hi>Dated from</hi> Windſor <hi>Castle, the</hi> 1 <hi>of</hi> January 1648.</p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">DIEV ET MON DROIT</q>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon surmounted by a crown and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+            </figure>
+            <p>Printed for <hi>C. Bradſhaw,</hi> neer the Inner Temple, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:164836:2"/>
+            <pb n="1" facs="tcp:164836:2"/>
+            <head>His Majeſties ANSWER Concerning the Charge of the ARMY AND His Reſolution to dye like a Martyr, rather then to an ſwer to any Impeachment or Articles, in relation to his Tryall by the Lawes of the Land, as an ordinary Subject.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>HIs Majeſty hath had ſome diſcourſe about the Re<g ref="char:EOLhyphen"/>monſtrance of the Army, in reference to the bring<g ref="char:EOLhyphen"/>ing of his perſon to a tryall, propoſing ſeverall Queries, how that could be, what way they could do it, or which way they could bring in any Charge againſt him: It
+<pb n="2" facs="tcp:164836:3"/>was anſwered by a Member of the Army, That what if a Charge ſhould be brought againſt him for his life, accor<g ref="char:EOLhyphen"/>ding to the manner of tryall of the Subjects by the Lawes of the <hi>Kingdom,</hi> what would he then do, in reference to an anſwer, for preſervation of his Life, Crown, and Priviledge, the King replyed, That if any ſuch Charge of Impeachment ſhould be exhibited againſt him, either by Parliament or Army, he would not give any anſwer thereto, but declare againſt it, to be both Arbytrary and unlawfull; and that if they ſought to depoſe and degrade him of his Titles and Honours, or to ſpill his Royall bloud, by ſeparating his Soule and Body, he was reſolved to ſacrifice his life with patience, and to caſt himſelf in the Armes and Boſome of his ſweet Lord and Saviour, and only Redeemer; to the end, He may dye like a Martyr, in proſecution and defence of Reli<g ref="char:EOLhyphen"/>gion and Country. So confident is the King in his wayes. But it is feared, that his great averſneſſe to the peace of this <hi>king<g ref="char:EOLhyphen"/>dom</hi> will cauſe cauſe much trouble and diſtractions to be<g ref="char:EOLhyphen"/>fall his people.</p>
+            <p>His Majeſtie is in a very ſecure place in the Caſtle, and ſtrong bolts and guards are for the night about the Cham<g ref="char:EOLhyphen"/>ber, but he will not admit any to lie, or remain in the cham<g ref="char:EOLhyphen"/>ber with him.</p>
+            <p>He ſaith, that he knowes there is a time for his redemption and that many of his enemies will moulter away, and fall before him; for, in his diſcourſe, he often declares, that he is confident that both <hi>Scotland</hi> and <hi>Ireland</hi> will help him, and that the Army will divide among themſelves, and be de<g ref="char:EOLhyphen"/>ſtroyed.</p>
+            <p>Col. <hi>Tomlinſon</hi> hath the command of this Caſtle, and his Majeſty is not ſuffered to ſtir out, onely walkes ſometimes upon the Territs, he is debarred from the ſpeech of many,
+<pb n="3" facs="tcp:164836:3"/>and no ſuſpicious perſons are admitted to him: he preſſeth much for D. <hi>Hamond</hi> to be reſident with him, and that Hee may have leave to communicate a Declaratory Meſſage to <hi>Holland</hi> and <hi>France.</hi>
+            </p>
+            <p>Yeſterday his Majeſty deſired a conference with Colonel <hi>Tompſon,</hi> which was aſſented to, and after ſome diſputation touching the preſent matter of State, his Maj. declared and propoſed ſeverall queſtions touching Maj. Gen. <hi>Brown,</hi> and the reſt of the impeached members, ſaying, That the ſaid M. G. was a man worthy of honour and truſt, and that he pit<g ref="char:EOLhyphen"/>tyed his caſe, as much as his owne, not doubting, but that few dayes would produce their liberty, notwithſtanding their preſent ſufferings for Religion and a good conſcience: his Maj. is oftentimes exceeding high in his expreſſions, and very bitter againſt divers of the Army; but caſts a favoura<g ref="char:EOLhyphen"/>ble conſtfuction upon the Lord Generall, which is all at preſent, from</p>
+            <closer>
+               <signed>Your Honours obliged, and devoted ſervant, <hi>J. WILLIS.</hi>
+               </signed> 
+               <dateline>Windſor
+<date>1. Jan. 1648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Yeſterday 16 of the reſtrained members were ſent for to the Gen. quarters, and told, that if they would promiſe to act nothing againſt the army, they might have their liberty: whereupon they deſired, 1 To know if that was the Generals pleaſure, 2 To know if they might not have their liberty without any engagement, and it was permitted them, their names are, Lord <hi>Weinman,</hi> Sir <hi>VValter Earl,</hi> Sir <hi>Robert Pye,</hi> Sir <hi>Samuel Luke,</hi> Sir <hi>Gilbert Gerrard,</hi> Sir <hi>Thomas Somes,</hi> and the reſt. As for the fore-going Charge againſt the King, it is ſaid, the army are reſolved to try him very ſpeedily, and that if he can acquit himſelf of the guilt thereof, that then Hee ſhall be re-inveſted, and reſtored to his juſt Rights and Dignities.</p>
+               <closer>
+                  <dateline>Westmin. <date>30. Decemb. 1648.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+         <div type="declaration">
+            <pb n="4" facs="tcp:164836:4"/>
+            <head>A Declaration concerning the King.</head>
+            <div type="part">
+               <p>HIs Excellency the Lord Gen <hi>Fairfax,</hi> Lieut. Generall <hi>Crumwell,</hi> and the reſt of the Councell of Officers, have ſeriouſly debated the Remonſtrance and Propoſals of the army, for the ſpeedy ſetling of the peace of the <hi>King<g ref="char:EOLhyphen"/>dome,</hi> and executing of impartiall Juſtice upon all Offen<g ref="char:EOLhyphen"/>ders whatſoever; and to that end, have drawn up a Charge againſt the King, which containeth theſe particulars, <hi>viz.</hi>
+               </p>
+               <p n="1">1 That <hi>Charles Steward</hi> hath acted contrary to his truſt, in departing from the Parliament.</p>
+               <p n="2">2 That the ſaid <hi>Charles Steward</hi> hath forfeited his truſt repoſed in him by the people, by ſetting up his Standard, making a war againſt them, and thereby been occaſion of much bloudſhed and miſery to the people whom hee was ſet over for good.</p>
+               <p n="3">3 That the ſaid <hi>Charles Steward</hi> hath been the chiefe In<g ref="char:EOLhyphen"/>ſtrument of augmenting and promoting a ſecond War, by granting Commiſſions to Incendiaries and Malignants, and inviting them thereunto.</p>
+               <p n="4">4 That the ſaid <hi>Charles Steward</hi> hath acted contrary to the Liberties of the Subject, and tending to the deſtruction of the fundamentall Laws and Liberties of this <hi>Kingdome;</hi> all which amounts to a forfeiture of the ſaid truſt repoſed in him by the People at his Coronation, with much more to this effect.</p>
+               <p>The Councel of War (who now manage buſineſſe, as in relation to him) have ordered the way of State and Majeſty obſerved about him, as to perſons and manner, <hi>viz.</hi> that no<g ref="char:EOLhyphen"/>thing be done upon the knee, in reference to his tryall, who (as is ſaid) will receive it at <hi>Windſor,</hi> about the <hi>6.</hi> day of the next moneth. And it is ſaid, that his Maj. upon the receipt hereof, declared, That though he could have no reſtaurati<g ref="char:EOLhyphen"/>on
+<pb n="5" facs="tcp:164836:4"/>to his rights, priviledges, and Crown, and had participa<g ref="char:EOLhyphen"/>ted of far more trouble and miſery in this world, than any of his (late) Predeceſors yet he doubted not, but in the world to come, to receive an everlaſting Crown of glory.</p>
+            </div>
+            <div type="part">
+               <head>His Majeſties Queries.</head>
+               <p>FIrſt, That no Law can judge a King, or make him rightly to ſuffer death by any power. 2 That though Hee ſuffers under them by reſtraint, yet his Iriſh Sub<g ref="char:EOLhyphen"/>jects will come in their time and reſcue Him. 3 That all men when they find that great decay of trade, which will be, if the Kingdome be not ſetled by him, they will reſcue him. 4 That He knowes what an influence is from the peo<g ref="char:EOLhyphen"/>ple upon him; That, that if he be not reſtored, they will not be ſatisfied. 5 That the kingdome is generally well pleaſed with what he condeſcended to, as very great on his part, at the Treaty with the Parliament. 6 That the City of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> are of great power both in purſe and ſtrength, and will oppoſe any that ſhall ſeek to deſtroy him. 7 That reliefe will come to him from ſeverall parts of Chriſtendome. 8 That his Sonne Prince <hi>Charles</hi> is able to raiſe a good ſtrength in <hi>France</hi> and <hi>Holland.</hi>
+               </p>
+               <div type="section">
+                  <head>Anſwer.</head>
+                  <p n="1">1 That there is not only example hereof in other parts, but in <hi>Scotland,</hi> yea, and <hi>England</hi> alſo, of the 35 laſt Kings, above twenty were impoſed and depoſed by power. 2 That nothing will ruine his Majeſty more, than joyning with the Iriſh againſt his Proteſtant Subjects. 3 That there will be a ſudden courſe taken for ſetling of trade, and inriching the kingdome. 4 That Law and Juſtice being executed, it will render great ſatisfaction to the people. 5 That the kingdom cannot be ſatisfied with <hi>Ormonds</hi> negotiation with the Re<g ref="char:EOLhyphen"/>bels in <hi>Ireland.</hi> 6 That the City of <hi>London</hi> will bee new
+<pb n="6" facs="tcp:164836:5"/>modelled, and begins to be framed to a pretty good order, and temper, ſince the putting of Malignants out of power and authority. 7 That forreign forces cannot daunt the ſpi<g ref="char:EOLhyphen"/>rits of the Souldiery of <hi>England.</hi> 8 That the French have troubles enough at home, by the preſent diſtractions in the City of <hi>Paris,</hi> and that the Prince wants money for facilita<g ref="char:EOLhyphen"/>ting his deſign in <hi>Holland.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The Declaration of Col.</hi> Harriſon <hi>to the</hi> King.</head>
+               <p n="1">1 That his truſt was to be in God. 2 That his deſire is, that God may have the glory of all. 3 That he hated all baſe and obſcure undertakings. 4 That what would be done concerning his Majeſty would be open, and to the eyes of the world. And proteſted that he himſelf would oppoſe a<g ref="char:EOLhyphen"/>ny that ſhould privately offer violence to his perſon. This gave his Majeſty great ſatisfaction, who replyed, that if the Army acted beyond his thoughts and expectation, he would proclaime their fame throughout all <hi>Europe.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
